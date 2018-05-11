@@ -53,6 +53,24 @@ http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcod
 
      5. 공개강좌: 
      
-국민대에 계신 임근석 선생님 문법론이 늘 열러 있는데 쉽고 재미있는 것 같아요.
+     
+1) 언어학 개론(의미 화용론 중심, 로그인 필요)
+서울대 남승호 교수님
+http://www.kmooc.kr/dashboard
 
-http://www.riss.kr/search/detail/DetailView.do?p_mat_type=2db2effbc5804a39&control_no=10c46da02f23a35a
+(2) 국어학 개론(형태 통사 중심)
+국민대학교 임근석 교수님
+http://www.kocw.net/home/search/kemView.do?kemId=1076045
+
+(3) 한국어 통사론(생성문법과 마음의 모듈성 등)
+서강대학교 이정훈 교수님
+http://ocw.sogang.ac.kr/courses/home?pageType=LECTURE&cate_02=17&cate_03=1073&cate_type=semester&classYear=&semester=&profSeq=
+
+(4) 음운론
+건국대학교 오재혁 교수님
+http://www.kocw.net/home/search/kemView.do?kemId=1257327&ar=relateCourse
+
+(5) 인지언어학개론
+한국외국어대학교 전종섭 교수님
+http://www.kocw.net/home/search/kemView.do?kemId=326026     
+     
