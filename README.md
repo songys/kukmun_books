@@ -68,9 +68,10 @@ http://ocw.sogang.ac.kr/courses/home?pageType=LECTURE&cate_02=17&cate_03=1073&ca
 
 4. 음운론    
 건국대학교 오재혁 교수님    
-http://www.kocw.net/home/search/kemView.do?kemId=1257327&ar=relateCourse
+http://www.kocw.net/home/search/kemView.do?kemId=1257327&ar=relateCourse    
 
-5 인지언어학개론    
+
+5. 인지언어학개론    
 한국외국어대학교 전종섭 교수님    
 http://www.kocw.net/home/search/kemView.do?kemId=326026     
      
