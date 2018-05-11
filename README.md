@@ -54,23 +54,23 @@ http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcod
      5. 공개강좌: 
      
      
-1) 언어학 개론(의미 화용론 중심, 로그인 필요)
-서울대 남승호 교수님
+1. 언어학 개론(의미 화용론 중심, 로그인 필요)    
+서울대 남승호 교수님    
 http://www.kmooc.kr/dashboard
 
-(2) 국어학 개론(형태 통사 중심)
-국민대학교 임근석 교수님
+2. 국어학 개론(형태 통사 중심)    
+국민대학교 임근석 교수님    
 http://www.kocw.net/home/search/kemView.do?kemId=1076045
 
-(3) 한국어 통사론(생성문법과 마음의 모듈성 등)
-서강대학교 이정훈 교수님
+3. 한국어 통사론(생성문법과 마음의 모듈성 등)    
+서강대학교 이정훈 교수님    
 http://ocw.sogang.ac.kr/courses/home?pageType=LECTURE&cate_02=17&cate_03=1073&cate_type=semester&classYear=&semester=&profSeq=
 
-(4) 음운론
-건국대학교 오재혁 교수님
+4. 음운론    
+건국대학교 오재혁 교수님    
 http://www.kocw.net/home/search/kemView.do?kemId=1257327&ar=relateCourse
 
-(5) 인지언어학개론
-한국외국어대학교 전종섭 교수님
+5 인지언어학개론    
+한국외국어대학교 전종섭 교수님    
 http://www.kocw.net/home/search/kemView.do?kemId=326026     
      
